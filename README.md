@@ -8,8 +8,8 @@
 💬 Ask me about anything related to **Linux, Networking, JavaScript, or CyberSec Basics**
 
 📫 How to reach me:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkkamu)  
-[![X](https://img.shields.io/badge/X-black?logo=twitter&logoColor=white)](https://x.com/linkkamu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/[linkkamu](https://www.linkedin.com/in/zero-syn-0171a9332/))  
+[![X](https://img.shields.io/badge/X-black?logo=twitter&logoColor=white)](https://x.com/[linkkamu](https://x.com/Vinny3034989311))
 
 ---
 
