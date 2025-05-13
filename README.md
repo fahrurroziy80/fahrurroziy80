@@ -17,8 +17,10 @@
 ![HTML](https://img.shields.io/badge/HTML-e34c26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-264de4?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali-557C94?logo=kalilinux&logoColor=white)
+
 
 ---
 
