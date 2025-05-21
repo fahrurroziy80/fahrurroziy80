@@ -32,7 +32,7 @@
 ---
 
 ### 📌 Goals
-- 🚀 Become a Cyber Security Expert (Purple Team focus)
+- 🚀 Become a Cyber Security Expert 
 - 📚 Share what I learn through GitHub & blog
 - 🧠 Build real-world tools using Linux & Python
 
