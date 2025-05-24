@@ -5,10 +5,9 @@
 
 🌱 I’m currently learning **Cyber Security, Web Development, and Ethical Hacking**
 
-📫 How to reach me:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zero-syn-0171a9332/)  
-[![X](https://img.shields.io/badge/X-black?logo=twitter&logoColor=white)](https://x.com/Vinny3034989311)
-
+# 🛰️ CONTACT
+> LinkedIn : https://www.linkedin.com/in/zero-syn-0171a9332/
+> Twitter  : https://x.com/Vinny3034989311
 ---
 
 ### 🛠️ Tech Stack
