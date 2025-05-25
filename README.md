@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm fahrurrozi80</h1>
-<h3 align="center">💻 Passionate about Web Dev & Cybersecurity</h3>
+
 
 ---
 
