@@ -3,7 +3,7 @@
 
 ---
 
-🌱 I’m currently learning **Cyber Security end Web Development**
+
 
 📫 How to reach me:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zero-syn-0171a9332/)  
