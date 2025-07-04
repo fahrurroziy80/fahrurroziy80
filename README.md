@@ -18,16 +18,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahrurroziy80&show_icons=true&theme=radical" alt="GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahrurroziy80&theme=radical" alt="GitHub streak" />
-</p>
-
----
 
 ### 📌 Goals
 - 🚀 Become a Cyber Security Expert 
