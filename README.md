@@ -1,4 +1,6 @@
-<h1 align="center">Hii 👋, I'm fahrurrozi80</h1>
+<p align="center">
+  <img src="[https://your-image-url.com/header.png](https://media.licdn.com/dms/image/v2/D4D16AQFm1lzforDH9Q/profile-displaybackgroundimage-shrink_350_1400/B4DZeirWPxGgAY-/0/1750780965651?e=1757548800&v=beta&t=aKSxGXQitHj1A7lZnb37Ib2JIEletpp039JxCSNztSE)" alt="Welcome Banner" width="500"/>
+</p>
 
 
 ---
