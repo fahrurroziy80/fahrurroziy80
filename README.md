@@ -9,9 +9,7 @@
 
 📫 How to reach me:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zero-syn-0171a9332/)  
-[![X](https://img.shields.io/badge/X-black?logo=twitter&logoColor=white)](https://x.com/Vinny3034989311)
 
----
 
 ### 🛠️ Tech Stack
 ![HTML](https://img.shields.io/badge/HTML-e34c26?logo=html5&logoColor=white)
