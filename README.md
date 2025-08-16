@@ -1,4 +1,3 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/CyberSecurity-RedTeam-black?style=for-the-badge&logo=linux" />
-  <img src="https://img.shields.io/badge/Web%20Developer-blue?style=for-the-badge&logo=javascript" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=36BCF7&center=true&vCenter=true&width=500&lines=Halo+%F0%9F%91%8B+Saya+Fahrurrozi;Cybersecurity+Enthusiast;Web+Developer" alt="Typing Animation" />
 </p>
