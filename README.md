@@ -4,6 +4,7 @@
 </p>
 
 ---
+---
 
 <p align="center">
   <img src="https://github.com/Fahrurroziy/Fahrurroziy/blob/output/dist/snake.svg" alt="snake animation"/>
