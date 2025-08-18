@@ -1,22 +1,25 @@
 name: Generate Snake Animation
 
 on:
-  schedule: # otomatis update tiap hari
+  schedule: # update tiap hari jam 12 malam
     - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Generate snake animation
+      - name: Generate snake animation (SVG & GIF)
         uses: Platane/snk@master
         with:
           github_user_name: Fahrurroziy
-          outputs: dist/snake.svg
+          outputs: |
+            dist/snake.svg
+            dist/snake.gif?palette=github-dark&color_snake=#00FF00
 
       - name: Push generated files
         uses: EndBug/add-and-commit@v9
@@ -24,4 +27,4 @@ jobs:
           author_name: github-actions
           author_email: actions@github.com
           message: "chore: update snake animation"
-          add: "dist/snake.svg"
+          add: "dist/snake.*"
