@@ -4,12 +4,3 @@
 </p>
 
 ---
----
-<p align="center">
-  <!-- SVG default -->
-  <img src="https://github.com/Fahrurroziy/Fahrurroziy/blob/output/dist/snake.svg" alt="snake svg"/>
-
-  <!-- GIF hacker green -->
-  <img src="https://github.com/Fahrurroziy/Fahrurroziy/blob/output/dist/snake.gif" alt="snake gif"/>
-</p>
-
