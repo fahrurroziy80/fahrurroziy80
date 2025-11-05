@@ -4,3 +4,31 @@
 </p>
 
 ---
+
+
+```mermaid
+graph TD
+    A[Skills] --> B[Programming]
+    A --> C[Security]
+    A --> D[Bug Bounty]
+
+    B --> E[Core]
+    B --> F[Web]
+    E --> G[C/C++]
+    E --> H[Java]
+    E --> I[Shell]
+    F --> J[JavaScript]
+    F --> K[CSS]
+    F --> L[HTML]
+
+    C --> M[Testing]
+    C --> N[Environment]
+    M --> O[Burp Suite]
+    M --> P[Postman]
+    N --> Q[Linux]
+    N --> R[Docker]
+
+    D --> S[Bugcrowd]
+    D --> T[HackerOne]
+    D --> U[Intigriti]
+
