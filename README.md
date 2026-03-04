@@ -1,7 +1,6 @@
 <p align="center">
-  <!-- Banner Hacker Style -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:00ff00&height=200&section=header&text=Hunter&fontSize=50&fontColor=00ff00" />
+  <!-- Banner Hacker Style Dark Red -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,100:8b0000&height=200&section=header&text=Hunter&fontSize=50&fontColor=ff1a1a" />
 </p>
 
 ---
-
