@@ -1,6 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0000,100:ff0000&height=200&section=header&text=Hunter&fontSize=50&fontColor=ff4d4d" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,100:4b0000&height=200&section=header&text=Hunter&fontSize=50&fontColor=cc0000" />
 </p>
-
-
 ---
